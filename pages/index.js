@@ -14,10 +14,6 @@ export default function Home() {
 
       <footer>
       </footer>
-
-      <style jsx></style>
-
-      <style jsx global></style>
     </div>
   )
 }
